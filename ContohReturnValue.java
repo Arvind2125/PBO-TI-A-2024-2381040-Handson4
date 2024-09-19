@@ -1,9 +1,8 @@
 public class ContohReturnValue {
-    public static void main(String[] args) {
-        System.out.println("Nama Saya Arvind");
+    public static void sebutkanNama() {
+        System.out.println("Nama saya Arvind Febriano Simanjuntak");
     }
-
-    public static void main(String[] args) {
+    public static int kembalikanAnkga() {
         int hasilPerkalian = 20 * 3;
         return hasilPerkalian;
     }
@@ -11,4 +10,5 @@ public class ContohReturnValue {
     public static void main(String[] args) {
 
     }
+
 }
